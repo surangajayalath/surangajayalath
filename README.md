@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surangajayalath
-- 🌱 I’m currently Working as DevOps Developer
+- 🌱 I’m currently Working as DevOps Engineer
 - 📫 How to reach me
   - 👨‍💻 Email - surangajayalath299@gmail.com
   - 👨‍💻 LinkedIn - https://www.linkedin.com/in/suranga-jayalath/
